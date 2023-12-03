@@ -54,13 +54,13 @@ Browsers interpret and display content written in HTML (Hypertext Markup Languag
   </html>
   ```
 
-### Block:
+### Block element:
 
 ```HTML
 <div>     <p>     <h1>       <nav>    <ul>    <ol>    <li>    <table>     <form>    <section>    <article>
 ```
 
-### Inline:
+### Inline element:
 
 ```HTML
 <span>      <a>     <strong>       <em>    <img>    <br>    <input>   <label>      <code>    <cite>
@@ -73,6 +73,6 @@ Browsers interpret and display content written in HTML (Hypertext Markup Languag
 ### Position
 
 **relative:** according to the current position  
-**absolute:** according to closest position of closest ancestor
-**fixed:** this will not move while scrolling
+**absolute:** according to closest position of closest ancestor  
+**fixed:** this will not move while scrolling  
 **sticky:** fixed only in parent.
